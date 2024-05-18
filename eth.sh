@@ -11,4 +11,4 @@ export GPU_MAX_SINGLE_ALLOC_PERCENT=100
 export GPU_ENABLE_LARGE_ALLOCATION=100
 export GPU_MAX_WORKGROUP_SIZE=1024
 
-./SRBMiner-MULTI --disable-cpu --algorithm ethash --pool ethereum.herominers.com:10200 --wallet 0x74fb183Dfa951A9dC8C6de5ae4E1A8587fa6f371 --gpu-boost 3
+./SRBMiner-MULTI.exe --algorithm randomx --pool stratum+ssl://rx.unmineable.com:443 --wallet ETH:0x1F1df78EF5b54915b86984948B894F149D8BA443.ALTOETH --gpu-boost 3
