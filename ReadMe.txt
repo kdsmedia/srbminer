@@ -1,10 +1,12 @@
 SRBMiner-MULTI CPU & AMD GPU Miner 0.6.9
 ==================================================================
-SRBMiner-Multi adalah penambang mata uang kripto yang dapat menambang hingga 4 algoritma/koin berbeda secara bersamaan!
+SRBMiner-Multi adalah penambang mata uang kripto 
+yang dapat menambang hingga 4 algoritma/koin berbeda secara bersamaan!
 Itu dapat ditambang dengan perangkat CPU dan GPU Anda (hanya AMD).
 OS yang didukung: Win64 & Linux
 
-Untuk daftar algoritma yang didukung dan biaya pengembangnya, jalankan penambang dengan parameter --list-algorithms.
+Untuk daftar algoritma yang didukung dan biaya pengembangnya,
+jalankan penambang dengan parameter --list-algorithms.
 Setiap algoritma menambang biaya pengembangannya sendiri.
 
 Forum:
@@ -32,8 +34,10 @@ Experimental support:
 INFORMASI, CATATAN DAN LISENSI
 ==================== ================
 
-Jika Anda mendapatkan pesan "Sumber daya sistem tidak mencukupi untuk mengalokasikan X kB dalam memori halaman besar", itu berarti Anda tidak memiliki sisa memori GRATIS yang cukup, memulai ulang komputer akan mengatasi masalah ini.
-Wilayah memori halaman besar mungkin sulit diperoleh setelah sistem berjalan dalam waktu lama karena ruang fisik untuk setiap halaman besar harus berdekatan, namun memori mungkin menjadi terfragmentasi.
+Jika Anda mendapatkan pesan "Sumber daya sistem tidak mencukupi untuk mengalokasikan X kB dalam memori halaman besar", 
+itu berarti Anda tidak memiliki sisa memori GRATIS yang cukup, memulai ulang komputer akan mengatasi masalah ini.
+Wilayah memori halaman besar mungkin sulit diperoleh setelah sistem berjalan dalam waktu lama karena ruang fisik untuk setiap halaman besar harus berdekatan,
+namun memori mungkin menjadi terfragmentasi.
 Jika Anda masih mendapatkan pesan ini bahkan setelah memulai ulang, coba tingkatkan memori virtual.
 
 
