@@ -1,7 +1,7 @@
 #!/bin/sh
 
-#This is an example you can edit and use
-#There are numerous parameters you can set, please check Help and Examples folder
+#Ini adalah contoh yang dapat Anda edit dan gunakan
+#Ada banyak parameter yang dapat Anda atur, silakan periksa folder Bantuan dan Contoh
 
 export GPU_MAX_HEAP_SIZE=100
 export GPU_MAX_USE_SYNC_OBJECTS=1
