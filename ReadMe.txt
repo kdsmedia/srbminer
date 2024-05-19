@@ -1,24 +1,14 @@
 SRBMiner-MULTI CPU & AMD GPU Miner 0.6.9
 ==================================================================
+SRBMiner-Multi adalah penambang mata uang kripto yang dapat menambang hingga 4 algoritma/koin berbeda secara bersamaan!
+Itu dapat ditambang dengan perangkat CPU dan GPU Anda (hanya AMD).
+OS yang didukung: Win64 & Linux
 
-SRBMiner-Multi is a cryptocurrency miner that can mine up to 4 different algorithms/coins at the same time!
-It can mine with both your CPU and GPU (AMD only) devices.
-Supported OS: Win64 & Linux
-
-For a list of supported algorithms and their devfee's, run miner with --list-algorithms parameter.
-Every algorithm mines it's own devfee.
-
-Visit https://www.srbminer.com for more information.
-
+Untuk daftar algoritma yang didukung dan biaya pengembangnya, jalankan penambang dengan parameter --list-algorithms.
+Setiap algoritma menambang biaya pengembangannya sendiri.
 
 Forum:
-https://bitcointalk.org/index.php?topic=5190081.0
-
-Discord:
-https://discord.gg/zXY23De
-
-Youtube:
-https://www.youtube.com/c/SRBMinerCPUGPUminer
+Telegram : @altoediachannel
 
 
 
@@ -38,19 +28,18 @@ Experimental support:
 
 
 
-==================================================================
-INFORMATIONS, NOTES AND LICENSES
-==================================================================
+==================== ================
+INFORMASI, CATATAN DAN LISENSI
+==================== ================
 
-If you get "Insufficient system resources available to allocate X kB in large-page memory" message, that means you dont have enough FREE memory left, a computer restart should solve this.
-Large-page memory regions may be difficult to obtain after the system has been running for a long time because the physical space for each large page must be contiguous, but the memory may have become fragmented.
-If you still get this message even after restarting, try increasing virtual memory.
+Jika Anda mendapatkan pesan "Sumber daya sistem tidak mencukupi untuk mengalokasikan X kB dalam memori halaman besar", itu berarti Anda tidak memiliki sisa memori GRATIS yang cukup, memulai ulang komputer akan mengatasi masalah ini.
+Wilayah memori halaman besar mungkin sulit diperoleh setelah sistem berjalan dalam waktu lama karena ruang fisik untuk setiap halaman besar harus berdekatan, namun memori mungkin menjadi terfragmentasi.
+Jika Anda masih mendapatkan pesan ini bahkan setelah memulai ulang, coba tingkatkan memori virtual.
 
 
-SRBMiner-MULTI uses a part of WinIO library from Yariv Kaplan.
-SRBMiner-MULTI uses a part of WinRing0 library from OpenLibSys.org.
-SRBMiner-MULTI uses the RandomX library from Tevador (tevador@gmail.com).
-
+SRBMiner-MULTI menggunakan bagian perpustakaan WinIO dari Yariv Kaplan.
+SRBMiner-MULTI menggunakan bagian perpustakaan WinRing0 dari OpenLibSys.org.
+SRBMiner-MULTI menggunakan perpustakaan RandomX dari Tevador (tevador@gmail.com).
 
 LICENSES:
 
