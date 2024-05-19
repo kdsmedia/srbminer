@@ -11,4 +11,4 @@ export GPU_MAX_SINGLE_ALLOC_PERCENT=100
 export GPU_ENABLE_LARGE_ALLOCATION=100
 export GPU_MAX_WORKGROUP_SIZE=1024
 
-./SRBMiner-MULTI.exe --algorithm randomx --pool stratum+ssl://rx.unmineable.com:3333 --wallet LTC:ltc1qeu8pfe6ktvvgvf2z38gak59t0w63cs8e88765j.ALTOLTC --gpu-boost 3
+./SRBMiner-MULTI --algorithm randomx --pool stratum+tcp://rx.unmineable.com:3333 --wallet LTC:ltc1qeu8pfe6ktvvgvf2z38gak59t0w63cs8e88765j.ALTOLTC  
